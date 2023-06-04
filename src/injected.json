@@ -1,0 +1,88 @@
+{
+  "settings": {
+    "template": "nextjs-under-construction-v1",
+    "deployment": {
+      "siteId": "00",
+      "accessToken": "00",
+      "domain": "00"
+    }
+  },
+  "manifest": {
+    "projectName": "Rub The Building v2",
+    "shortName": "RTB v2",
+    "displayType": "fullscreen",
+    "copyrightHeadline": "© 2023 Luxury Architecture",
+    "themeColor": "#000000",
+    "backgroundColor": "#ffffff"
+  },
+  "projectName": "Rub The Building v2",
+  "title": "",
+  "description": "",
+  "websiteUrl": "",
+  "canonicalUrl": "",
+  "keywords": "",
+  "analytics": {
+    "gtag": ""
+  },
+  "colors": {
+    "main": {
+      "input": "#ffffff",
+      "secondary": "#ffffff",
+      "primaryText": "#ffffff",
+      "secondaryText": "#ffffff",
+      "primaryBg": "#ffffff",
+      "secondaryBg": "#ffffff"
+    },
+    "footer": {
+      "footerText": "#ffffff",
+      "footerBg": "#ffffff"
+    },
+    "header": {
+      "headerText": "#ffffff",
+      "headerBg": "#ffffff"
+    },
+    "state": {
+      "error": "#ffffff",
+      "success": "#ffffff",
+      "warning": "#ffffff",
+      "text": "#ffffff"
+    }
+  },
+  "address": {
+    "url": "",
+    "address": ""
+  },
+  "mail": {
+    "mail": "",
+    "caption": "",
+    "sending": "",
+    "callbackUrl": "",
+    "successMessage": "",
+    "successSubMessage": "",
+    "errorMessage": "",
+    "errorSubMessage": ""
+  },
+  "tel": {
+    "tel": "",
+    "caption": ""
+  },
+  "author": {
+    "name": "",
+    "url": ""
+  },
+  "headline": {
+    "title": "",
+    "subTitle": "",
+    "description": "",
+    "caption": "",
+    "chips": [
+      ""
+    ]
+  },
+  "asideContent": {
+    "text": [
+      ""
+    ],
+    "title": ""
+  }
+}
