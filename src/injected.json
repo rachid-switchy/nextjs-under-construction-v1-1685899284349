@@ -5,6 +5,11 @@
       "siteId": "00",
       "accessToken": "00",
       "domain": "00"
+    },
+    "repository": {
+      "git": "https://github.com/rachid-switchy/nextjs-under-construction-v1-1685899284349.git",
+      "url": "https://github.com/rachid-switchy/nextjs-under-construction-v1-1685899284349",
+      "name": "nextjs-under-construction-v1-1685899284349"
     }
   },
   "manifest": {
